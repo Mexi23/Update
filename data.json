@@ -1,7 +1,7 @@
 
 {
   "Visibility": "VISIBLE",
-  "Title": "new update available",
+  "Title": "new update available!",
   "Description": "check this out",
   "MainTextButton": "Update",
   "Cancelable": "true",
