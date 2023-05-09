@@ -1,11 +1,11 @@
 
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "new update available",
+  "Description": "check this out",
   "MainTextButton": "Update",
   "Cancelable": "true",
-  "CancelButtonText": "Cancel",
+  "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
   "Version": "1.2"
 }
