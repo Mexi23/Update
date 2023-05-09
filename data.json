@@ -1,8 +1,8 @@
 
 {
   "Visibility": "VISIBLE",
-  "Title": "new update available!",
-  "Description": "check this out",
+  "Title": "New Update Available!",
+  "Description": "Fix Some Bugs And Added New Skins",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
