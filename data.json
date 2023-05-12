@@ -1,8 +1,8 @@
 
 {
   "Visibility": "VISIBLE",
-  "Title": "New Update Available!",
-  "Description": "Fix Some Bugs And Added New Skins",
+  "Title": "Update Available!",
+  "Description": "Jc Tools recommends that you update the Latest Version. Fix Some Bugs And Added New Skins, Almost every day I fix issue/error/skins.",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
