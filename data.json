@@ -1,11 +1,11 @@
 
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Updates Available",
   "Description": "JC Tools recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.jc.ready",
-  "Version": "2.86"
+  "Version": "2.87"
 }
