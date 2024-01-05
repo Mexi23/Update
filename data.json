@@ -1,11 +1,11 @@
 
 {
-  "Visibility": "VISIBLE",
+  "Visibility": "DISABLE",
   "Title": "New Updates Available",
   "Description": "JC Tools V2 recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.next.injectools",
-  "Version": "2.101"
+  "Version": "2.102"
 }
