@@ -1,11 +1,11 @@
 
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Updates Available",
   "Description": "JC Tools GFX recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "UPDATE",
   "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://youtu.be/-94ChmtLLH4?si=p5zqzkrv4T1d8mhP",
+  "DownloadLink": "https://youtu.be/UySbHOooRg0?si=j4ieMMa4_tk9sfNb",
   "Version": "3.11"
 }
