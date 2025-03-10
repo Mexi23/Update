@@ -1,11 +1,11 @@
 
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "2025 Updates Available",
   "Description": "JC Tools GFX recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "UPDATE",
   "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://youtu.be/rAnIbZNBV3Y?si=A7q0YjAo4ap2g70u",
+  "DownloadLink": "https://youtube.com/clip/Ugkxsffqx1IhHkOeoXu7M9Sv9Y_oH94k3oFo?si=8alnPmbc7uCnZXHY",
   "Version": "3.15"
 }
