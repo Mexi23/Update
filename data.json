@@ -4,8 +4,8 @@
   "Title": "2025 Updates Available",
   "Description": "JC Tools GFX recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "UPDATE",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://youtu.be/FCBoP42GjI8?si=hZsUTiWxMUAFhU6a",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.infinite.tools.ml",
   "Version": "3.15"
 }
