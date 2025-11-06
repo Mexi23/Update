@@ -1,11 +1,11 @@
 
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "NEW JC GFX Available",
   "Description": "JC Tools GFX recommends that you Download the New Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "DOWNLOAD",
   "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.tweaky.play.jc",
-  "Version": "3.18"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.infinite.tools.ml",
+  "Version": "3.22"
 }
