@@ -2,12 +2,12 @@
 {
   "buttonToGo":"GONE",
   
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "NEW JC GFX Available",
   "Description": "JC Tools GFX recommends that you Download the New Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "DOWNLOAD",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.tweaky.play.jc",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.jc.ultra",
   "Version": "1.0"
 }
